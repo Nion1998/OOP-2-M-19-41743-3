@@ -1,0 +1,6 @@
+G:\5th semester\OOP2\code\ALLeven\ALLeven\bin\Debug\ALLeven.exe.config
+G:\5th semester\OOP2\code\ALLeven\ALLeven\bin\Debug\ALLeven.exe
+G:\5th semester\OOP2\code\ALLeven\ALLeven\bin\Debug\ALLeven.pdb
+G:\5th semester\OOP2\code\ALLeven\ALLeven\obj\Debug\ALLeven.csprojResolveAssemblyReference.cache
+G:\5th semester\OOP2\code\ALLeven\ALLeven\obj\Debug\ALLeven.exe
+G:\5th semester\OOP2\code\ALLeven\ALLeven\obj\Debug\ALLeven.pdb

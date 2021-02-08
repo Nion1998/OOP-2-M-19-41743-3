@@ -1,0 +1,6 @@
+G:\5th semester\OOP2\code\hello\hello\bin\Debug\hello.exe.config
+G:\5th semester\OOP2\code\hello\hello\bin\Debug\hello.exe
+G:\5th semester\OOP2\code\hello\hello\bin\Debug\hello.pdb
+G:\5th semester\OOP2\code\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+G:\5th semester\OOP2\code\hello\hello\obj\Debug\hello.exe
+G:\5th semester\OOP2\code\hello\hello\obj\Debug\hello.pdb

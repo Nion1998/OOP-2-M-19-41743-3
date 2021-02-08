@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+G:\5th semester\OOP2\code\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+G:\5th semester\OOP2\code\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+G:\5th semester\OOP2\code\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+G:\5th semester\OOP2\code\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb

@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\evenoddsum\evenoddsum\bin\Debug\evenoddsum.exe.config
+G:\5th semester\OOP2\code\evenoddsum\evenoddsum\bin\Debug\evenoddsum.exe
+G:\5th semester\OOP2\code\evenoddsum\evenoddsum\bin\Debug\evenoddsum.pdb
+G:\5th semester\OOP2\code\evenoddsum\evenoddsum\obj\Debug\evenoddsum.exe
+G:\5th semester\OOP2\code\evenoddsum\evenoddsum\obj\Debug\evenoddsum.pdb
