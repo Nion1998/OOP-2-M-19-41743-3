@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\task3-15.02.2021\sumearray\sumearray\bin\Debug\sumearray.exe.config
+G:\5th semester\OOP2\code\task3-15.02.2021\sumearray\sumearray\bin\Debug\sumearray.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\sumearray\sumearray\bin\Debug\sumearray.pdb
+G:\5th semester\OOP2\code\task3-15.02.2021\sumearray\sumearray\obj\Debug\sumearray.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\sumearray\sumearray\obj\Debug\sumearray.pdb

@@ -47,7 +47,7 @@ namespace ConsoleApplication2
 
 
 
-           /* Account s3 = new Account();
+            Account s3 = new Account();
 
             Console.Write("Enter ACC name : ");
             s3.AccName = Console.ReadLine();
@@ -56,10 +56,10 @@ namespace ConsoleApplication2
             s3.Acid = Console.ReadLine();
 
             Console.Write("Enter Dipo amm: ");
-            s3.Deposit = Convert.ToInt32(Console.ReadLine());
+            s3.Deposit ( Convert.ToInt32(Console.ReadLine()));
 
             Console.Write("Enter Withdrow amm: ");
-            s3.Withdraw = Convert.ToInt32(Console.ReadLine());*/
+            s3.Withdraw (Convert.ToInt32(Console.ReadLine()));
 
 
 

@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\task3-15.02.2021\reverce\reverce\bin\Debug\reverce.exe.config
+G:\5th semester\OOP2\code\task3-15.02.2021\reverce\reverce\bin\Debug\reverce.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\reverce\reverce\bin\Debug\reverce.pdb
+G:\5th semester\OOP2\code\task3-15.02.2021\reverce\reverce\obj\Debug\reverce.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\reverce\reverce\obj\Debug\reverce.pdb

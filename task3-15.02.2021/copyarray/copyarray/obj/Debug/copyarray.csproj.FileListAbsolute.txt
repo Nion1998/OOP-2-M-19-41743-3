@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\task3-15.02.2021\copyarray\copyarray\bin\Debug\copyarray.exe.config
+G:\5th semester\OOP2\code\task3-15.02.2021\copyarray\copyarray\bin\Debug\copyarray.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\copyarray\copyarray\bin\Debug\copyarray.pdb
+G:\5th semester\OOP2\code\task3-15.02.2021\copyarray\copyarray\obj\Debug\copyarray.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\copyarray\copyarray\obj\Debug\copyarray.pdb

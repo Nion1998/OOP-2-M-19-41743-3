@@ -1,0 +1,5 @@
+G:\5th semester\OOP2\code\task3-15.02.2021\uniqueele\uniqueele\bin\Debug\uniqueele.exe.config
+G:\5th semester\OOP2\code\task3-15.02.2021\uniqueele\uniqueele\bin\Debug\uniqueele.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\uniqueele\uniqueele\bin\Debug\uniqueele.pdb
+G:\5th semester\OOP2\code\task3-15.02.2021\uniqueele\uniqueele\obj\Debug\uniqueele.exe
+G:\5th semester\OOP2\code\task3-15.02.2021\uniqueele\uniqueele\obj\Debug\uniqueele.pdb
