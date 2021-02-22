@@ -25,14 +25,16 @@ namespace uniqueele
 
             for (int i = 0; i < array.Length; i++)
             {
-                for (int j = 0; j <i; j++)
+                int j;
+                for ( j = 0; j <i; j++)
                 {
                     if (array[i] == array[j])
                         break;
-                    if (i == j)
-                    {
-                        Console.WriteLine(array[i]);
-                    }
+                   
+                }
+                if (i == j)
+                {
+                    Console.WriteLine(array[i]);
                 }
             }
         }
