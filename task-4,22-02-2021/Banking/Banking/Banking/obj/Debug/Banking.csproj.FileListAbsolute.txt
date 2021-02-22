@@ -1,0 +1,6 @@
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\bin\Debug\Banking.exe.config
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\bin\Debug\Banking.exe
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\bin\Debug\Banking.pdb
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\obj\Debug\Banking.exe
+G:\5th semester\OOP2\code\task-4,22-02-2021\Banking\Banking\Banking\obj\Debug\Banking.pdb
